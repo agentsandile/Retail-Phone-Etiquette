@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6nf6rtjOuQV_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Retail Phone Etiquette</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Retail_Phone_Etiquette_ORG">
+    <organization identifier="Retail_Phone_Etiquette_ORG">
+      <title>Retail Phone Etiquette</title>
+      <item identifier="Retail_Phone_Etiquette_SCO" isvisible="true" identifierref="__6nf6rtjOuQV_course_id_RES">
+        <title>Retail Phone Etiquette</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6nf6rtjOuQV_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ZaX3Ldy6of.png" />
+      <file href="mobile/6KD5Dcj41J4.png" />
+      <file href="mobile/5glGONVrqXK_80_P_32_0_1332_2048.jpg" />
+      <file href="mobile/65bRerIXQ0j_P_57_164_416_112.png" />
+      <file href="mobile/6jdxYCP15Ia_P_65_116_72_72.png" />
+      <file href="mobile/6jdxYCP15Ia_R95B3D7_P_65_116_72_72.png" />
+      <file href="mobile/6jdxYCP15Ia_P_145_116_72_72.png" />
+      <file href="mobile/6jdxYCP15Ia_R95B3D7_P_145_116_72_72.png" />
+      <file href="mobile/6jdxYCP15Ia_P_225_116_80_72.png" />
+      <file href="mobile/6jdxYCP15Ia_R95B3D7_P_225_116_80_72.png" />
+      <file href="mobile/6jdxYCP15Ia_P_313_116_72_72.png" />
+      <file href="mobile/6jdxYCP15Ia_R95B3D7_P_313_116_72_72.png" />
+      <file href="mobile/6jdxYCP15Ia_P_393_116_72_72.png" />
+      <file href="mobile/6jdxYCP15Ia_R95B3D7_P_393_116_72_72.png" />
+      <file href="story_content/6I1BiXOwq0Q_44100_48_0.mp3" />
+      <file href="mobile/5p6oyPVkx96_P_0_0_1081_627.png" />
+      <file href="mobile/6R92LDEI1Ah_XY.png" />
+      <file href="mobile/5bq9qefb6ZA_P_104_32_480_296.png" />
+      <file href="mobile/6R92LDEI1Ah.png" />
+      <file href="mobile/5vGPodvmwjK_80_C10.jpg" />
+      <file href="story_content/6BpmAuz7xuy_44100_48_0.mp3" />
+      <file href="mobile/6bYR6WjZsS5_80_C10_P_-10_542_1365_1463.jpg" />
+      <file href="story_content/6G0kHjLfkH8_44100_48_0.mp3" />
+      <file href="mobile/5ywjxClxtHW_80_B-10_C10.jpg" />
+      <file href="story_content/6W8iTmW3wfw_44100_48_0.mp3" />
+      <file href="mobile/5iJQZ6Hq6fX_80_C10.jpg" />
+      <file href="story_content/6kWMiFjUzGb_44100_48_0.mp3" />
+      <file href="mobile/5z1tqHcLmEH_80_C10.jpg" />
+      <file href="story_content/5giADJhkDJ2_44100_48_0.mp3" />
+      <file href="story_content/64jHL6AbOEX_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6bUOK4kPrmW.png" />
+      <file href="mobile/Shape6YaklhJSq4I.png" />
+      <file href="mobile/Shape6Zlka3AFYC6.png" />
+      <file href="mobile/Shape5ZHBMiM4PT7.png" />
+      <file href="mobile/Shape6ciKpfwlgyZ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/64PLUnq3FLg.js" />
+      <file href="html5/data/js/6LsvywlJ2rC.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
